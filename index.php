@@ -26,6 +26,7 @@
 						<span class="input-group-text" id="btn-cari">Search</span>
 					</div>
 				</div>
+				<hr>
 				<h3 class="mt-3" id="title"></h3>
 				<div id="show" class="row mt-3"></div>
 			</div>
